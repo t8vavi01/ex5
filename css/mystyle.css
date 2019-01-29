@@ -1,0 +1,38 @@
+#header{
+  background-color: lightblue;
+}
+
+#menu{
+  background-color: orange;
+  float: left;
+  width: 150px;
+  height: 100%;
+  font-size: 20px;
+}
+
+#content{
+  background-color: white;
+  margin-left: 160px;
+}
+
+#footer{
+  background-color: lightgray;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: yellow;
+}
