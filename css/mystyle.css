@@ -4,7 +4,7 @@
 
 #menu{
   background-color: orange;
-  float: left;
+  float:left;
   width: 150px;
   height: 100%;
   font-size: 20px;
@@ -25,14 +25,14 @@ body {
   width: 100%;
 }
 
-ul {
+ul li{
   list-style: none;
 }
 
-a {
+ul li a {
   text-decoration: none;
 }
 
-a:hover {
+ul li a:hover {
   background-color: yellow;
 }
